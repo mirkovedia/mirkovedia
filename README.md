@@ -33,6 +33,8 @@ Soy fundador de **Mirbok AI**, una agencia de automatización con IA basada en S
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
