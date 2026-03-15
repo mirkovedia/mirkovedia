@@ -25,4 +25,5 @@ jobs:
           git config user.name "GitHub Action"
           git add -A .
           git commit -m "generated 3d contrib" || exit 0
+          git pull --rebase origin main
           git push
