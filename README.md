@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-baron-vedia-7702663b2)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=baronvedia@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=baronvedia-blipas&style=for-the-badge&color=D97757&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mirkovedia&style=for-the-badge&color=D97757&label=PROFILE+VIEWS)
 
 </div>
 
@@ -64,14 +64,14 @@ estado:     Aprendiendo, construyendo y rompiendo cosas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baronvedia-blipas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&icon_color=D97757&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baronvedia-blipas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirkovedia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&icon_color=D97757&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkovedia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=baronvedia-blipas&theme=tokyonight&hide_border=true&background=0d1117&stroke=D97757&ring=D97757&fire=ffffff&currStreakLabel=D97757)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mirkovedia&theme=tokyonight&hide_border=true&background=0d1117&stroke=D97757&ring=D97757&fire=ffffff&currStreakLabel=D97757)](https://git.io/streak-stats)
 
 </div>
 
